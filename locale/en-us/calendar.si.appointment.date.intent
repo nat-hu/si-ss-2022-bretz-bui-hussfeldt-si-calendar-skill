@@ -1,0 +1,3 @@
+do i have (any|an) (appointments|events|appointment|event) (on| ) {date}
+what (is|are) my (appointment|event|appointments|events) (on| ) {date}
+what am i doing on {date}

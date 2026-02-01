@@ -1,0 +1,3 @@
+(create|add|plan|set up|make|schedule|arrange) (an|a new|a) (appointment|event|meeting|get-together|) (entitled|) {title}
+(create|add|plan|set up|make|schedule|arrange) (an|a new|a) (appointment|event|meeting|get-together) (on|for) {date}
+(create|add|plan|set up|make|schedule|arrange) (an|a new|a) (appointment|event|meeting|get-together)
